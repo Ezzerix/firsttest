@@ -1,0 +1,33 @@
+A government is the system or group of people governing an organized community, often a state.
+
+A state is a compulsory political organization with a centralized government that maintains a 
+monopoly on the legitimate use of force within a certain geographical territory.
+
+In law, force means unlawful violence, or lawful compulsion.
+
+When something is said to have been done "by force", it usually implies that it was done by actual 
+or threatened violence ("might"), not necessarily by legal authority ("right").
+
+Geolocational governement simulator, where 
+
+Player
+Two main currencies: Might, and Right.
+Skills
+
+Right is gained by following lawful government orders, completing missions, or performing tasks. 
+It is considered the currency of that government and is needed to pay taxes, unlock permits for building, research, and crafting.
+Supplies can also be bought from the government for Right, but must be used within the government's territory.
+Governmental taxes must be paid in Right.
+
+Might is gained by performing character actions. It is used to perform actions not allowed by law.
+
+
+Government
+A government is a player organization system that endorses or sanctions actions 
+
+Same currencies: Right, and Might.
+
+Right is gained by interacting with players by either collecting taxes or selling supplies. It is used to set governmental tasks, 
+objectives, and laws.
+
+Might is gained in equivalence when players take actions. It is used in inter-governmental interactions and to assert control over territory to gain resources.
